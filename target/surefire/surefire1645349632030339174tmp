@@ -1,0 +1,27 @@
+#surefire
+#Sat Feb 07 23:59:44 GMT 2015
+testClassesDirectory=C\:\\workspaces\\31012015\\LastTrack\\target\\test-classes
+classPathUrl.4=C\:\\Users\\Adrian\\.m2\\repository\\org\\scala-lang\\modules\\scala-xml_2.11\\1.0.2\\scala-xml_2.11-1.0.2.jar
+classPathUrl.3=C\:\\Users\\Adrian\\.m2\\repository\\org\\scala-lang\\scala-reflect\\2.11.2\\scala-reflect-2.11.2.jar
+classPathUrl.2=C\:\\Users\\Adrian\\.m2\\repository\\org\\scalatest\\scalatest_2.11\\2.2.1\\scalatest_2.11-2.2.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\workspaces\\31012015\\LastTrack\\target\\classes
+reportsDirectory=C\:\\workspaces\\31012015\\LastTrack\\target\\surefire-reports
+classPathUrl.0=C\:\\workspaces\\31012015\\LastTrack\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\workspaces\\31012015\\LastTrack\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\Adrian\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=C\:\\Users\\Adrian\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.12.4\\surefire-junit3-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=com.TestClass
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=C\:\\workspaces\\31012015\\LastTrack\\.surefire-77C240930F6F1BF49E105AE7DA9D7DC52B881F38
+includes0=**/Test*.java
+childDelegation=false
+classPathUrl.5=C\:\\Users\\Adrian\\.m2\\repository\\org\\scala-lang\\scala-library\\2.11.5\\scala-library-2.11.5.jar
