@@ -9,8 +9,10 @@ object Details {
 
     val v: Array[(java.io.File, Int)] = files.zipWithIndex;
 
-    val map = v.toMap.map(_ swap).toList.sortBy(_._1)
-    map
+    val list: List[(Int , java.io.File)] = v.toMap.map(_ swap).toList
+    
+    list.sortBy(_._2.getName)
+    
   }
 
   def getFileNamesWithPath(f: File): Array[File] = {
